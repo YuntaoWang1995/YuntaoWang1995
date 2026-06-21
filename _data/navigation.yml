@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "简介"
-    url: "/zh-cn/#about-me"
+    url: "#about-me"
 
-  - title: "论文专利"
-    url: "/zh-cn/#-lwzl"
+  - title: "论文成果"
+    url: "/#-论文成果"
 
-  - title: "荣誉奖项"
-    url: "/zh-cn/#-ryjx"
+  - title: "国际奖项"
+    url: "/#-国际奖项"
 
-  - title: "学术会议"
-    url: "/zh-cn/#-xshy"
+  - title: "科研项目"
+    url: "/#-科研项目"
 
-  - title: "工作实习"
-    url: "/zh-cn/#-gzsx"
+  - title: "学术服务"
+    url: "/#-学术服务"
