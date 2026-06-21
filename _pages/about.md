@@ -31,14 +31,15 @@ redirect_from:
 - 主持项目：先后主持**国家自然科学基金青年项目、科技部国家重点研发计划子课题、国家博新计划、博士后面上项目、陕西省博士后项目**等多项国家/省部级项目。
 
 联系邮箱：yuntao.wang@xjtu.edu.cn
-<span class='anchor' id='-xl'></span>
+
+<span class='anchor' id='-jl'></span>
 
 # 🎓 教育与工作经历
 - *2022.9*, 博士毕业于西安交通大学 网络空间安全学院,  期间荣获国家奖学金、腾讯奖学金特等奖、陕西省优秀毕业生等
 - *2022.12*, 西安交通大学 网络空间安全学院，担任助理教授、硕士生导师
 - *2026.6*, 西安交通大学 网络空间安全学院，担任特聘研究员（副教授）、博士生导师
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-lwcg'></span>
 
 # 📝 论文成果
 
@@ -118,14 +119,9 @@ redirect_from:
 
 38. Yiheng Sun, Linkang Du, Zhou Su, `Yuntao Wang`, and Han Liu, "URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models," **Proceedings of IEEE Symposium on Security and Privacy (IEEE S&P)** (2026) **安全领域四大顶会**
 
-39. Quan Zhao, Linkang Du, `Yuntao Wang`, Zhou Su, Zheng Li, Xiangshan Gao, and Yang Zhang, "Unveiling the Pitfalls of Data-Free Backdoor Detection Against Pre-Trained Models," **Proceedings of USENIX Security Symposium (USENIX Security)** (2026) **安全领域四大顶会**
+39. Quan Zhao, Linkang Du, `Yuntao Wang`, Zhou Su, Zheng Li, Xiangshan Gao, and Yang Zhang, "Unveiling the Pitfalls of Data-Free Backdoor Detection Against Pre-Trained Models," **Proceedings of USENIX Security Symposium (USENIX Security)** (2026) **安全领域四大顶会** 🔗 [PDF](https://doi.org/...) · [Cite](...)
 
-
-
-#2.📄 *Wang Y., et al., "Title of Your Paper Here,"* **IEEE TPAMI**, 2024.    ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square)   🔗 [PDF](https://doi.org/...) · [Cite](...) [中文导读](https://zhuanlan.zhihu.com/p/1909730947538089007)
-
-
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-gjjx'></span>
 
 # 🏅 国际奖项
 - 入选2025年度**科睿唯安全球高被引学者（Clarivate Highly Cited Researchers）**
@@ -140,7 +136,7 @@ redirect_from:
 - **IEEE AIoT2024（澳大利亚墨尔本举办）Best Paper Award**, 2024，IEEE通信学会颁发
 - **IEEE MetaCom2025（韩国首尔举办）Best Paper Award**, 2025，IEEE通信学会颁发
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-kyxm'></span>
 
 # 💻 科研项目
 1.  2024-2026 基于联邦学习的物联网数据安全共享关键技术 (No.62302387)，国家自然科学基金青年科学基金项目，主持，在研
@@ -149,7 +145,7 @@ redirect_from:
 4.  2023-2026 国家博士后创新人才支持计划，主持，结题
 5.  2024-2025 博士后面上资助，主持，结题
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='-xsfw'></span>
 
 # 🏛️ 学术服务
 1. 期刊编委
@@ -180,4 +176,3 @@ redirect_from:
 - ICC24~26, GlobeCom24~26, VTC24~26, IEEE INFOCOM ICCN 2023, IEEE WCSP'19, IEEE WCSP'23
 2. Session Chair of IEEE ICC'23 - CISS Symposium (Rome, Italy)
 
-<span class='anchor' id='-gzsx'></span>
