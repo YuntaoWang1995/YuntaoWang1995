@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 王云涛、西安交通大学 特聘研究员（副教授）、博士生导师
 
-- 入选2025年度**科睿唯安全球高被引学者**（Clarivate Highly Cited Researchers）
+- 入选2025年度**科睿唯安全球高被引学者（Clarivate Highly Cited Researchers）**
 - 入选2023年度**国家博士后创新人才支持计划（博新计划）**
 - 入选2024年度**中国电子学会博士学位论文激励计划（优博）**
 - 2023~2025年度连续入选**全球前2%顶尖科学家**
