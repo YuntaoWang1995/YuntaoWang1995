@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "简介"
-    url: "#about-me"
+    url: "/#about-me"
 
   - title: "论文成果"
-    url: "/#-论文成果"
+    url: "/#-lwcg"
 
   - title: "国际奖项"
-    url: "/#-国际奖项"
+    url: "/#-gjjx"
 
   - title: "科研项目"
-    url: "/#-科研项目"
+    url: "/#-jyxm"
 
   - title: "学术服务"
-    url: "/#-学术服务"
+    url: "/#-xsfw"
